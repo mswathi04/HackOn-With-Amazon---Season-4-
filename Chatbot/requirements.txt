@@ -1,0 +1,9 @@
+pandas
+langchain-groq
+langchain-google-genai
+langchain
+langchain-community
+os
+gradio
+python-dotenv
+SQLAlchemy
